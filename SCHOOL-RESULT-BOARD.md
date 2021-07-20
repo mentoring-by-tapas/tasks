@@ -3,7 +3,7 @@ The Oriental school just announced the result of last semester exams for standar
 
 
 # Expectations
-- Create a Website to show the results of top 10 stidents from each of the standards.
+- Create a Website to show the results of top 10 students from each of the standards.
 - We should show the name of the students with the grade(A+, A, B) and the actual percentage they got in the exam.
 - It should be easily understood which student belongs to which standard.
 - We should be able to search the student by name.
