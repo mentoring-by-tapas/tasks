@@ -10,7 +10,7 @@ The Oriental school just announced the result of last semester exams for standar
 - We should be able to sort the students by grade and marks for a specific standard.
 
 # Tasks
-### By 19th July 2021
+### By 19th July 2021 `(Done)`
 - Come up with the design of the website using a tool like Canva.
 - Share the design with me and let me review.
 - Once the design is finalized, then only coding will start.
