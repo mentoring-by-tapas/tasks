@@ -16,11 +16,17 @@ The Oriental school just announced the result of last semester exams for standar
 - Once the design is finalized, then only coding will start.
 - Once design is finalized, create a new project folder called, `student-marks-board`. Create a folder called `design` under it. Post all the images of the finalized design inside the design folder.
 
-### By 21st July 2021
-TBA
+### By 25th July(Delayed) 2021
+- Build the entire app using just HTML and CSS. No JavaScript and interactions required.
+- Make sure to finalize the colors, fonts and other asthetic aspects.
+- Create the complete HTML, CSS with all the elements in the design.
 
-### By 23rd July 2021
-TBA
+### By 28th July 2021
+- Comeplete the functionalities using JavaScript.
+- Compete listing of students by fetching data from JSON
+- Implement Search
+- Implement Sorting
 
-### By 25th July 2021
-Final Delivery of the project and demo.
+### By 1st Aug 2021
+- Bug Fixes
+- Final Delivery of the project and demo.
